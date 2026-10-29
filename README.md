@@ -3,6 +3,7 @@
 Dashboard interativa em HTML de arquivo único (Chart.js) com 100 vendas fictícias de motos Ducati no Brasil, de 2021 a 2025. Ela responde três perguntas de negócio e tem filtros e indicadores no topo.
 
 **Dashboard publicada:** https://kauedota.github.io/dashboard-ducati/
+
 **Repositório:** https://github.com/kauedota/dashboard-ducati
 
 ## Perguntas de negócio e por quê
