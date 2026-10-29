@@ -1,0 +1,101 @@
+﻿id;modelo_cru;cidade_cru;estado_cru;ano_cru;preco_cru;pagamento_cru;modelo;cidade;estado;ano;preco;pagamento
+1;Multistrada V4;Brasília;DF;2022;R$ 155.100,00;Consórcio;Multistrada V4;Brasília;DF;2022;155100;Consórcio
+2;DesertX;São Paulo;sp;2025;125400;À vista;DesertX;São Paulo;SP;2025;125400;À vista
+3;Scrambler;Rio de Janeiro;RJ;2023;65400;à vista ;Scrambler;Rio de Janeiro;RJ;2023;65400;À vista
+4;Streetfighter V4;CAMPINAS;SP;2023;R$ 181.600,00;À vista;Streetfighter V4;Campinas;SP;2023;181600;À vista
+5;Multistrada V4;campinas;SP;2025;R$ 168.900,00;À vista;Multistrada V4;Campinas;SP;2025;168900;À vista
+6;Multistrada V4;rio de janeiro;RJ;2021;R$ 163.100,00;Financiamento;Multistrada V4;Rio de Janeiro;RJ;2021;163100;Financiamento
+7;Multistrada V4;RJ - Rio;RJ;2025;R$ 154.900,00;a vista;Multistrada V4;Rio de Janeiro;RJ;2025;154900;À vista
+8;multistrada v4;Porto Alegre;RS;2024;R$ 173.600,00;À vista;Multistrada V4;Porto Alegre;RS;2024;173600;À vista
+9;Multistrada V4;Brasília;DF;2021;R$ 152.500,00;à vista ;Multistrada V4;Brasília;DF;2021;152500;À vista
+10;DesertX;Rio de Janeiro;RJ;2023;128100;CONSORCIO;DesertX;Rio de Janeiro;RJ;2023;128100;Consórcio
+11;monster;Belo Horizonte;MG;2025;R$ 100.600,00;Leasing;Monster;Belo Horizonte;MG;2025;100600;Leasing
+12;DesertX;São Paulo;SP;2024;R$ 148.400,00;Financiamento;DesertX;São Paulo;SP;2024;148400;Financiamento
+13;Scrambler;São Paulo;SP;2025;R$ 65.500,00;à vista ;Scrambler;São Paulo;SP;2025;65500;À vista
+14;Streetfighter V4;Campinas;SP;2025;R$ 156.900,00;Financiamento;Streetfighter V4;Campinas;SP;2025;156900;Financiamento
+15;panigale v4;Curitiba;PR;2024;R$ 217.000,00;À vista;Panigale V4;Curitiba;PR;2024;217000;À vista
+16;Monster;São Paulo;SP;2025;R$ 79.200,00;Financiamento;Monster;São Paulo;SP;2025;79200;Financiamento
+17;DesertX;Campinas;SP;2025;R$ 138.800,00;Financiamento;DesertX;Campinas;SP;2025;138800;Financiamento
+18;Diavel V4;Porto Alegre;RS;2023;R$ 187.500,00;À vista;Diavel V4;Porto Alegre;RS;2023;187500;À vista
+19;Panigale V4;Porto Alegre;RS;2025;R$ 197.900,00;Leasing;Panigale V4;Porto Alegre;RS;2025;197900;Leasing
+20;Hypermotard 950;curitiba;pr;2023;R$ 91.000,00;Financiamento;Hypermotard 950;Curitiba;PR;2023;91000;Financiamento
+21;Scrambler;rio de janeiro;RJ;2024;R$ 71.400,00;LEASING ;Scrambler;Rio de Janeiro;RJ;2024;71400;Leasing
+22;Scrambler;SAO PAULO;SP;2024;R$ 69.500,00;financ;Scrambler;São Paulo;SP;2024;69500;Financiamento
+23;Multistrada V4;Porto Alegre;RS;'2025;R$ 189.900,00;LEASING ;Multistrada V4;Porto Alegre;RS;2025;189900;Leasing
+24;Hypermotard 950; São Paulo ;SP;2024;R$ 94.900,00;Financiamento;Hypermotard 950;São Paulo;SP;2024;94900;Financiamento
+25;Scrambler;Belo Horizonte;MG;2023;63500;a vista;Scrambler;Belo Horizonte;MG;2023;63500;À vista
+26;Panigale V4;Belo Horizonte;MG;'2021;R$ 184.400,00;a vista;Panigale V4;Belo Horizonte;MG;2021;184400;À vista
+27;Scrambler;Campinas;SP;2022;R$ 61.800,00;Leasing;Scrambler;Campinas;SP;2022;61800;Leasing
+28;monster;Curitiba;PR;2022;R$ 91.300,00;Financiamento;Monster;Curitiba;PR;2022;91300;Financiamento
+29;Multistrada V4;Belo Horizonte;MG;2023;R$ 158.400,00;AVISTA;Multistrada V4;Belo Horizonte;MG;2023;158400;À vista
+30;streetfighter v4;rio de janeiro;RJ;2025;167500;À vista;Streetfighter V4;Rio de Janeiro;RJ;2025;167500;À vista
+31;Hypermotard 950;belo horizonte;MG;2023;R$ 106.900,00;Financiamento;Hypermotard 950;Belo Horizonte;MG;2023;106900;Financiamento
+32;Streetfighter V4;curitiba;PR;2024;R$ 181.100,00;À vista;Streetfighter V4;Curitiba;PR;2024;181100;À vista
+33;monster;Curitiba;pr;2022;R$ 94.900,00;À vista;Monster;Curitiba;PR;2022;94900;À vista
+34;DesertX;sao paulo;SP;2025;R$ 137.800,00;Leasing;DesertX;São Paulo;SP;2025;137800;Leasing
+35;panigale v4;florianopolis;SC;2021;R$ 176.000,00;Consórcio;Panigale V4;Florianópolis;SC;2021;176000;Consórcio
+36;Panigale V4;Rio de Janeiro;RJ;2023;R$ 198.800,00;À vista;Panigale V4;Rio de Janeiro;RJ;2023;198800;À vista
+37;Hypermotard 950; São Paulo ;SP;2023;R$ 90.600,00;Financiamento;Hypermotard 950;São Paulo;SP;2023;90600;Financiamento
+38;Monster;São Paulo;SP;2021;R$ 96.500,00;à vista ;Monster;São Paulo;SP;2021;96500;À vista
+39;Scrambler;Rio de Janeiro;rj;2025;R$ 62.800,00;Financiamento;Scrambler;Rio de Janeiro;RJ;2025;62800;Financiamento
+40;Diavel V4;Porto Alegre;RS;2024;R$ 169.700,00;a vista;Diavel V4;Porto Alegre;RS;2024;169700;À vista
+41;Hypermotard 950;sao paulo;SP;2024;R$ 102.700,00;À vista;Hypermotard 950;São Paulo;SP;2024;102700;À vista
+42;Monster;São Paulo;SP;'2024;R$ 82.600,00;À vista;Monster;São Paulo;SP;2024;82600;À vista
+43;monster;curitiba;PR;2023;R$ 100.700,00;à vista ;Monster;Curitiba;PR;2023;100700;À vista
+44;diavel v4;belo horizonte;MG;2025;184200;Financiamento;Diavel V4;Belo Horizonte;MG;2025;184200;Financiamento
+45;Monster; São Paulo ;SP;2022;R$ 90.100,00;À vista;Monster;São Paulo;SP;2022;90100;À vista
+46;hypermotard 950;Rio de Janeiro;RJ;2025;R$ 97.200,00;À vista;Hypermotard 950;Rio de Janeiro;RJ;2025;97200;À vista
+47;Multistrada V4;SAO PAULO;SP;2022;R$ 175.800,00;À vista;Multistrada V4;São Paulo;SP;2022;175800;À vista
+48;Streetfighter V4; São Paulo ;SP;2025;R$ 194.500,00;Financiamento;Streetfighter V4;São Paulo;SP;2025;194500;Financiamento
+49;Scrambler;Florianópolis;SC;2024;R$ 73.700,00;AVISTA;Scrambler;Florianópolis;SC;2024;73700;À vista
+50;Monster;Campinas;SP;'2025;R$ 100.100,00;financ;Monster;Campinas;SP;2025;100100;Financiamento
+51;Multistrada V4;São Paulo;sp;2025;R$ 191.100,00;à vista ;Multistrada V4;São Paulo;SP;2025;191100;À vista
+52;streetfighter v4;CAMPINAS;sp;'2025;R$ 171.900,00;Leasing;Streetfighter V4;Campinas;SP;2025;171900;Leasing
+53;Multistrada V4;São Paulo;SP;'2025;189500;À vista;Multistrada V4;São Paulo;SP;2025;189500;À vista
+54;Multistrada V4;São Paulo;SP;2025;R$ 160.200,00;À vista;Multistrada V4;São Paulo;SP;2025;160200;À vista
+55;Hypermotard 950;Brasília;DF;2022;97900;Financiamento;Hypermotard 950;Brasília;DF;2022;97900;Financiamento
+56;desertx;BH;mg;2025;R$ 132.000,00;Leasing;DesertX;Belo Horizonte;MG;2025;132000;Leasing
+57;Monster;Brasília;df;2023;R$ 90.300,00;Leasing;Monster;Brasília;DF;2023;90300;Leasing
+58;DesertX;Brasília;DF;2024;R$ 130.900,00;À vista;DesertX;Brasília;DF;2024;130900;À vista
+59;Panigale V4;CURITIBA ;PR;'2025;R$ 198.800,00;Consórcio;Panigale V4;Curitiba;PR;2025;198800;Consórcio
+60;Monster;RJ - Rio;RJ;2021;R$ 91.000,00;Consórcio;Monster;Rio de Janeiro;RJ;2021;91000;Consórcio
+61;desertx;sao paulo;SP;2024;R$ 118.100,00;leasing;DesertX;São Paulo;SP;2024;118100;Leasing
+62;Scrambler; São Paulo ;SP;2024;R$ 65.100,00;Financiamento;Scrambler;São Paulo;SP;2024;65100;Financiamento
+63;Multistrada V4;belo horizonte;MG;2023;R$ 148.000,00;leasing;Multistrada V4;Belo Horizonte;MG;2023;148000;Leasing
+64;Monster;curitiba;PR;2023;R$ 100.500,00;AVISTA;Monster;Curitiba;PR;2023;100500;À vista
+65;Monster;São Paulo;SP;2021;R$ 89.200,00;financ;Monster;São Paulo;SP;2021;89200;Financiamento
+66;Hypermotard 950;Rio de Janeiro;RJ;2023;R$ 111.800,00;AVISTA;Hypermotard 950;Rio de Janeiro;RJ;2023;111800;À vista
+67;Monster;Rio de Janeiro;RJ;2023;R$ 96.200,00;a vista;Monster;Rio de Janeiro;RJ;2023;96200;À vista
+68;Monster;São Paulo;SP;2025;92100;Consórcio;Monster;São Paulo;SP;2025;92100;Consórcio
+69;multistrada v4;Rio de Janeiro;RJ;2023;R$ 171.300,00;Financiamento;Multistrada V4;Rio de Janeiro;RJ;2023;171300;Financiamento
+70;Monster;sao paulo;SP;2025;R$ 88.800,00;financiamento;Monster;São Paulo;SP;2025;88800;Financiamento
+71;Monster;Campinas;SP;2024;R$ 80.200,00;À vista;Monster;Campinas;SP;2024;80200;À vista
+72;Streetfighter V4;florianopolis;SC;2025;R$ 202.200,00;financ;Streetfighter V4;Florianópolis;SC;2025;202200;Financiamento
+73;Diavel V4;Rio de Janeiro;RJ;2025;R$ 197.400,00;FINANC.;Diavel V4;Rio de Janeiro;RJ;2025;197400;Financiamento
+74;scrambler;SAO PAULO;SP;2024;R$ 66.400,00;À vista;Scrambler;São Paulo;SP;2024;66400;À vista
+75;Multistrada V4;sao paulo;SP;'2024;154800;Financiamento;Multistrada V4;São Paulo;SP;2024;154800;Financiamento
+76;monster;brasilia;DF;2023;R$ 92.200,00;Financiamento;Monster;Brasília;DF;2023;92200;Financiamento
+77;Streetfighter V4;Curitiba;PR;2025;190900;À vista;Streetfighter V4;Curitiba;PR;2025;190900;À vista
+78;Multistrada V4;Curitiba;PR;2024;150600;consorcio;Multistrada V4;Curitiba;PR;2024;150600;Consórcio
+79;Panigale V4;Porto Alegre;RS;2025;R$ 222.500,00;Financiamento;Panigale V4;Porto Alegre;RS;2025;222500;Financiamento
+80;Scrambler;Porto Alegre;RS;2024;R$ 60.500,00;À vista;Scrambler;Porto Alegre;RS;2024;60500;À vista
+81;Diavel V4;POA;RS;2023;209300;À vista;Diavel V4;Porto Alegre;RS;2023;209300;À vista
+82;Panigale V4;sao paulo;SP;2025;R$ 220.300,00;À vista;Panigale V4;São Paulo;SP;2025;220300;À vista
+83;Multistrada V4;Rio de Janeiro;RJ;2025;R$ 149.400,00;À vista;Multistrada V4;Rio de Janeiro;RJ;2025;149400;À vista
+84;Panigale V4;Belo Horizonte;MG;2024;R$ 184.300,00;À vista;Panigale V4;Belo Horizonte;MG;2024;184300;À vista
+85;Monster;São Paulo;SP;2025;94800;a vista;Monster;São Paulo;SP;2025;94800;À vista
+86;Multistrada V4;Rio de Janeiro;rj;2023;164100;a vista;Multistrada V4;Rio de Janeiro;RJ;2023;164100;À vista
+87;Multistrada V4;Florianópolis;SC;2022;R$ 155.300,00;Consórcio;Multistrada V4;Florianópolis;SC;2022;155300;Consórcio
+88;Panigale V4;Curitiba;PR;2025;R$ 222.400,00;financ;Panigale V4;Curitiba;PR;2025;222400;Financiamento
+89;Streetfighter V4;Curitiba;PR;2023;R$ 203.900,00;Financiamento;Streetfighter V4;Curitiba;PR;2023;203900;Financiamento
+90;Scrambler;porto alegre;RS;2025;R$ 64.600,00;à vista ;Scrambler;Porto Alegre;RS;2025;64600;À vista
+91;Scrambler;Belo Horizonte;MG;2025;R$ 61.300,00;Consórcio;Scrambler;Belo Horizonte;MG;2025;61300;Consórcio
+92;Hypermotard 950;Rio de Janeiro;RJ;2024;R$ 96.600,00;À vista;Hypermotard 950;Rio de Janeiro;RJ;2024;96600;À vista
+93;Monster;brasilia;DF;2024;81000;Financiamento;Monster;Brasília;DF;2024;81000;Financiamento
+94;Streetfighter V4;Campinas;SP;2023;R$ 188.400,00;Leasing;Streetfighter V4;Campinas;SP;2023;188400;Leasing
+95;Diavel V4;CAMPINAS;SP;2022;R$ 198.200,00;À vista;Diavel V4;Campinas;SP;2022;198200;À vista
+96;Hypermotard 950;Campinas;SP;2022;R$ 90.200,00;Leasing;Hypermotard 950;Campinas;SP;2022;90200;Leasing
+97;multistrada v4;Rio de Janeiro;RJ;2024;R$ 168.800,00;À vista;Multistrada V4;Rio de Janeiro;RJ;2024;168800;À vista
+98;Multistrada V4;Rio de Janeiro;rj;2023;R$ 173.600,00;Financiamento;Multistrada V4;Rio de Janeiro;RJ;2023;173600;Financiamento
+99;Scrambler;Campinas;SP;2022;R$ 71.800,00;Financiamento;Scrambler;Campinas;SP;2022;71800;Financiamento
+100;Monster;BH;MG;2024;R$ 87.400,00;À vista;Monster;Belo Horizonte;MG;2024;87400;À vista
